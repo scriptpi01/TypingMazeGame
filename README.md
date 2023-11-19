@@ -17,8 +17,8 @@ Reach the Goal: Successfully navigate to the end of the maze to win.
 View Scores: Check the 'Score Board' for the fastest times.
 
 ## Requirements
-Java Development Kit (JDK)
-Basic understanding of Java and Swing
+- Java Development Kit (JDK)
+- Basic understanding of Java and Swing
 
 ## Installation
 Clone the repository: git clone [repository-url]
