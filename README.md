@@ -21,9 +21,9 @@ View Scores: Check the 'Score Board' for the fastest times.
 - Basic understanding of Java and Swing
 
 ## Installation
-- Clone the repository: git clone [repository-url]
-- Compile the Java files: javac TypingMaze.java
-- Run the game: java TypingMaze
+1. Clone the repository: git clone [repository-url]
+2. Compile the Java files: javac TypingMaze.java
+3. Run the game: java TypingMaze
 
 ## Contributing
 Contributions are welcome! Please feel free to submit pull requests or open issues to suggest improvements or add new features.
