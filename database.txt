@@ -8,9 +8,3 @@ Michael, 115
 Emma, 90
 James, 125
 Sophia, 135
-test, 16
-aa, 8
-hacker, 24
-domon, 50
-aa, 21
-beam, 29
