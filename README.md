@@ -1,5 +1,5 @@
 
-# Typing Maze Game
+## Typing Maze Game
 Typing Maze is an engaging and challenging maze game built using Java Swing, designed to enhance typing skills and spatial navigation. Players navigate through a dynamically generated maze by typing specific commands, making it an excellent tool for improving keyboard proficiency.
 
 Features
